@@ -1,0 +1,1 @@
+In the 3rd application, the user should upload a text and then the user will choose the language, if he wants to keep the emojis 😊, if he wants to keep the stopwords, if he wants to keep the punctuation and allow him to download the cleaned text format afterwards !! 
